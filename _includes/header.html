@@ -59,7 +59,7 @@
 
       {%- if site.email -%}
         <p>
-          {{ site.email_title | default: "メールアドレス " }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          {{ site.email_title | default: "メール " }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}

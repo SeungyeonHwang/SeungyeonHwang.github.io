@@ -26,8 +26,6 @@ linkedin_username: seungyeon-hwang-09a722182
 about_profile_image: images/profile.jpeg
 about_title: 基本情報
 about_content: |
-  - 韓国で大学卒業後、日本に来てSEとして活動、主に企業のオンプレミスERPシステムをクラウド環境のERPシステムに導入するプロジェクトに携わってきました。
-
   |項目|内容|
   |----|----|
   |名前|ファン スンヨン|
@@ -40,16 +38,17 @@ about_content: |
 # Activity Section
 activity_title: 概要
 activity_content: |
+  - 韓国で大学卒業後、日本に来てSEとして活動、主に企業のオンプレミスERPシステムをクラウド環境のERPシステムに導入するプロジェクトに携わってきました。
   - dddddd
 
 # Skill Section
 skill_title: スキル
 
 # Projects Section
-projects_title: Project 
+projects_title: バリューを発揮しやすい業務 
 
 # Education Section
-education_title: Education 
+education_title: 業務経歴 
 
 # OpenSource Section
 open-soutce_title: OpenSource
