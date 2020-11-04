@@ -1,12 +1,9 @@
 # Sklll Left Section
 - layout: left
-  name: Front-End
+  name: 言語
   description: |
-    - Javascript
-    - HTML/CSS
+  Java | Ruby | Python | Javascript | Groovy
 - layout: left
-  name: Back-End
+  name: フレームワーク等
   description: |
-    - Spring
-    - Spring Boot
-    - AWS(EC2, RDS, S3 등)
+  Spring | Ruby on Rails | jQuery | React.js 

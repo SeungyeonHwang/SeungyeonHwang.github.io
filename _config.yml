@@ -7,7 +7,7 @@ repository: SeungyeonHwang/SeungyeonHwang.github.io
 name: ファン (Hwang Seungyeon)
 title: Web系エンジニア
 email: syhwang.web@gmail.com
-phone: 
+phone: ご意見、ご感想、ご依頼など、お気軽にご連絡頂ければ幸いです。心よりお待ちしております。
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -32,15 +32,19 @@ about_content: |
   |居住地|東京都 三鷹市(韓国出身)|
   |ポートフォリオ|[SeungyeonHwang](https://github.com/SeungyeonHwang)|
   |学歴|大学卒|
-  |資格|オラクル認定Javaプログラマー(Silver)、
-  情報処理技師(応用情報技術者相当)|
+  |資格|オラクル認定Javaプログラマー(Silver),<br/>情報処理技師(応用情報技術者相当)|
   |英語力|TOEIC845点及アメリカ留学経験|
 
 # Activity Section
 activity_title: 概要
 activity_content: |
   - 韓国で大学卒業後、日本に来てSEとして活動、主に企業のオンプレミスERPシステムをクラウド環境のERPシステムに導入するプロジェクトに携わってきました。
-  - dddddd
+  - dddddd韓国で大学卒業後、日本に来てSEとして活動、主に企業のオンプレミスERPシステムをクラウド環境のERPシステムに導入するプロジェクトに携わってきました。(Oracle社の製品)
+  - モバイルアプリの開発、マーケティング、デザイン、など幅広く興味を持っており、 アイディアを具現化させる技術・スキルで楽しみながら役に立つ人材になりたいです。
+特にユーザーのニーズを素早く把握し、インタラクションして それを満足させることができるプラットフォームとしてモバイル開発分野に興味深いです。
+また働く上にやはりチームワークが大切だと思いますので、コミュニケーションに問題がないように頑張りたいです。
+将来はSNSサービスやAI、ビッグデータを利用してソリューションを提供するアプリを作り出したいです。
+
 
 # Skill Section
 skill_title: スキル
