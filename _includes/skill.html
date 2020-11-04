@@ -1,13 +1,6 @@
-<div class="container intro-container" style="padding-bottom: 20px;">
+<div class="container intro-container">
     <h3 style="font-weight: 400">{{ site.skill_title | default: "Skill Set" }}</h3>
-    <div style="float: left; width: 50%;">
-        {% for skill in site.data.skill-left %}
-            {% include {{ skill.layout | default: 'left' | append: ".html" }} item=skill %}
-        {% endfor %}
-    </div>
-    <div style="float: right; width: 50%;">
-        {% for skill in site.data.skill-right %}
-            {% include {{ skill.layout | default: 'left' | append: ".html" }} item=skill %}
-        {% endfor %}
-    </div>
+    <div class="row clearfix">
+        {{ site.skill_content | strip | markdownify }}
+      </div>
 </div>
