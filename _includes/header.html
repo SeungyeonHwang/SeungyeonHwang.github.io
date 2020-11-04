@@ -62,11 +62,11 @@
           {{ site.email_title | default: "メール " }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
-      {%- if site.phone -%}
+      <br>
         <p>
-          {{ site.phone_title | default: "  " }}<br>ご意見、ご感想、ご依頼など、お気軽にご連絡頂ければ幸いです。<br>心よりお待ちしております。
+          ご意見、ご感想、ご依頼など、お気軽にご連絡頂ければ幸いです。<br>心よりお待ちしております。
         </p>
-      {%- endif -%}
+      
       {%- if site.website -%}
         <p>
           {{ site.website_title | default: "블로그 " }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
