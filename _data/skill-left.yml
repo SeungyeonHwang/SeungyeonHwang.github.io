@@ -1,9 +1,9 @@
 # Sklll Left Section
 - layout: left
   name: 言語
-  description: |
+  description:
   Java | Ruby | Python | Javascript | Groovy
 - layout: left
   name: フレームワーク等
-  description: |
+  description:
   Spring | Ruby on Rails | jQuery | React.js 

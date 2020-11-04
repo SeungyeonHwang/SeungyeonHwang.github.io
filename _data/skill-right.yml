@@ -1,9 +1,9 @@
 # Skill Right Section
 - layout: left
   name: RDB
-  description: |
+  description: 
   PostgreSQL | MySQL | Oracle
 - layout: left
   name: SaaS/PaaS
-  description: |
+  description:
   Docker | Maven | GitHub
