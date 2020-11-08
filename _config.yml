@@ -45,10 +45,13 @@ activity_content: |
 # Skill Section
 skill_title: スキル
 skill_content: |
-  - 基本的にすべて実業務で使用した技術だけを列挙しています。
+  ***基本的にすべて実業務で使用した技術だけを列挙しています。***
   
-  ###言語
-  > Java | Ruby | 
+  **言語**  
+    Java | Ruby | Python | JavaScript | HTML | CSS | Groovy
+
+  **framework**  
+    Spring | Ruby on Rails | jQuery | Spock | Docker | Maven | GitHub | PostgreSQL | MySQL | Oracle
 
 # OpenSource Section
 open-source_title: バリューを発揮しやすい業務
