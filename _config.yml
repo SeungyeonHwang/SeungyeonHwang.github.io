@@ -49,17 +49,19 @@ skill_content: |
   - dddddd韓国で大学卒業後、日本に来てSEとして活動、主に企業のオンプレミスERPシステムをクラウド環境のERPシステムに導入するプロジェクトに携わってきました。(Oracle社の製品)
   - モバイルアプリの開発、マーケティング、デザイン、など幅広く興味を持っており、 アイディアを具現化させる技術・スキルで楽しみながら役に立つ人材になりたいです。
 
-# Projects Section
-projects_title: ポートフォリオ
-
 # OpenSource Section
 open-soutce_title: バリューを発揮しやすい業務
 
-# Education Section
-education_title: 業務経歴 
-
 # Experience Section
-experience_title: Experience 
+experience_title: 主な業務経歴 
+
+# Projects Section
+projects_title: ポートフォリオ
+
+# Education Section
+# education_title: 主な業務経歴 
+
+
 
 # Footer
 footer_show_references: false
