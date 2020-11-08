@@ -46,21 +46,9 @@ activity_content: |
 skill_title: スキル
 skill_content: |
   - 基本的にすべて実業務で使用した技術だけを列挙しています。
-  ## 言語
-  Rust | Kotlin | Scala | Java | Go | Elixir | Ruby | Python | PHP | Perl | JavaScript | TypeScript | VC++ | C# | VB.NET | Delphi | Objective-C | Action Script
-
-  ### フレームワーク等
-  Iron | Vert.x | Finch | Cats | Shapeless | Scaldi | PlayFramework | Slick | ScalikeJDBC | Spec2 | Struts | Revel | Phoenix | Ruby on Rails | Flask | Django | Zend Framework | CodeIgniter | CakePHP | Ethna | Symfony | jQuery | Vue.js | MFC | .NET Framework
-
-  ### RDB/NoSQL
-  MySQL | PostgreSQL | Greenplum | Oracle | SQL Server | Redis | Memcached | Tokyo Tyrant | Kyoto Tycoon
-
-  ### SaaS/PaaS
-  GitHub | GitHub Actions | BitBucket(Stash) | CircleCI | Wercker | DataDog | Sentry | NewRelic | TreasureData | DeployGate | TestFlight
-
-  ### その他
-  Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Tomcat | Gulp | Webpack | Pug | SASS | Mecab | Zabbix | munin | Elasticsearch | Kibana | RabbitMQ | LDAP | LVS | BIND | DHCP | IIS | Active Directory | DirectShow | Sharepoint Server | Exchage Server
-
+  
+  ###言語
+  > Java | Ruby | 
 
 # OpenSource Section
 open-source_title: バリューを発揮しやすい業務
