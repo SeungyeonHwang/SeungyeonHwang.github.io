@@ -45,8 +45,8 @@ activity_content: |
 # Skill Section
 skill_title: スキル
 skill_content: |
-  > 基本的にすべて実業務で使用した技術だけを列挙しています。
-  ### 言語
+  - 基本的にすべて実業務で使用した技術だけを列挙しています。
+  ## 言語
   Rust | Kotlin | Scala | Java | Go | Elixir | Ruby | Python | PHP | Perl | JavaScript | TypeScript | VC++ | C# | VB.NET | Delphi | Objective-C | Action Script
 
   ### フレームワーク等
