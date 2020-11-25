@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto, sans-serif;
+  font-family: sans-serif;
   font-size: 1rem;
   line-height: 1.2;
   margin: 0 0 0.75rem;
@@ -52,8 +52,8 @@ h3 {
   text-align: center;
   border-bottom: dashed 2px #CCCCCC;
   padding-bottom: 10px;
-  margin-bottom:40px;
-  margin-top: 50px;
+  margin-bottom:35px;
+  margin-top: 35px;
 
   @media print {
     margin-bottom: 20px;
