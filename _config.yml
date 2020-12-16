@@ -24,7 +24,7 @@ linkedin_username: seungyeon-hwang-09a722182
 
 # About Me Section
 about_profile_image: images/profile.jpeg
-about_title: 基本情報
+about_title: 🔖 基本情報
 about_content: |
   |項目|内容|
   |----|----|
@@ -36,7 +36,7 @@ about_content: |
   |英語力|TOEIC845点及アメリカ留学経験有り|
 
 # Activity Section
-activity_title: 概要
+activity_title: 📌 概要
 activity_content: |
   ## ◼︎ 株式会社ホープスに入社後、約1年間、基幹システムの構築（主にERPシステム）に従事し、要件定義や設計などの上流工程から、アジャイルのスクラッチ開発(スクラム)やテストコード作成まで経験しておりました。直近の案件では大手メーカの受発注システムのスクラッチ開発でサーバサイドエンジニアとして機能具現化(API開発)及びテストコード作成を担当してました。
   <br>
@@ -44,35 +44,35 @@ activity_content: |
   <br>
   ## ◼︎ Webで提供できる様々のサービス開発に非常に興味深いです。また「手を動かせるエンジニア」として貢献できる人材になりたいため頑張って自主勉強しています。
 # Skill Section
-skill_title: スキル
+skill_title: 💻 スキル
 skill_content: |
   ***実業務で使用した技術は "＊" マックを付けました。***  
   <br>
   ## **◼︎ 言語**  
-  ＊Java | ＊Groovy | ＊SQL | Python | JavaScript | HTML | CSS | JSP | Ruby   
+  ＊`Java` | ＊`Groovy` | ＊`SQL` | Python | JavaScript | HTML | CSS | JSP | Ruby   
   <br>
   
   ## **◼︎ フレームワーク等**  
-    ＊Micronaut | ＊Spock | ＊Querydsl | Spring | Ruby on Rails | jQuery   
+    ＊`Micronaut` | ＊`Spock` | ＊`Queryds` | Spring | Ruby on Rails | jQuery   
   <br>
   
   ## **◼︎ その他**  
-  ＊Git | ＊GitHub | ＊Docker | ＊Maven | Apache | Tomcat | AWS 
+  ＊`Git` | ＊`GitHub & Lab` | ＊`Docker` | Apache | Tomcat | AWS 
   <br>
   
   ## **◼︎ データベース**  
   ＊PostgreSQL | MySQL | Oracle
 # OpenSource Section
-open-source_title: バリューを発揮しやすい業務
+open-source_title: ✨ バリューを発揮しやすい業務
 open-source_content: |
   ## 테스트
   - 애자일 환경
   - ㅇㅇㅇ
 # Experience Section
-experience_title: 主な業務経歴 
+experience_title: 📑 主な業務経歴 
 
 # Projects Section
-projects_title: ポートフォリオ
+projects_title: 💡 ポートフォリオ
 
 # Education Section
 # education_title: 主な業務経歴 
