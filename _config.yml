@@ -33,12 +33,12 @@ about_content: |
   |ポートフォリオ|[SeungyeonHwang](https://github.com/SeungyeonHwang)|
   |学歴|大学卒|
   |資格|オラクル認定Javaプログラマー(Silver),<br/>情報処理技師(応用情報技術者相当)|
-  |英語力|TOEIC845点及アメリカ留学経験|
+  |英語力|TOEIC845点及アメリカ留学経験有り|
 
 # Activity Section
 activity_title: 概要
 activity_content: |
-  ## ◼︎ 株式会社ホープスに入社後、約1年間、基幹システムの構築（主にERPシステム）に従事し、要件定義や設計などの上流工程から、アジャイルのスクラッチ開発(スクラム)やテストまで経験しておりました。直近の案件では大手メーカの受発注システムのスクラッチ開発で機能具現化及びテストコード作成を担当してました  
+  ## ◼︎ 株式会社ホープスに入社後、約1年間、基幹システムの構築（主にERPシステム）に従事し、要件定義や設計などの上流工程から、アジャイルのスクラッチ開発(スクラム)やテストコード作成まで経験しておりました。直近の案件では大手メーカの受発注システムのスクラッチ開発でサーバサイドエンジニアとして機能具現化(API開発)及びテストコード作成を担当してました。
   <br>
   ## ◼︎ JavaやRuby等のサーバサイド(BackEnd)開発が現在の専門です。多種多様な言語/DB/フレームワークを用いる開発に興味深いますので将来はフロントエンドに挑戦したいと思います。     
   <br>
@@ -53,18 +53,21 @@ skill_content: |
   <br>
   
   ## **◼︎ フレームワーク等**  
-  ＊Micronaut | ＊Spock | Spring | Ruby on Rails | jQuery | Querydsl  
+    ＊Micronaut | ＊Spock | ＊Querydsl | Spring | Ruby on Rails | jQuery   
   <br>
   
   ## **◼︎ その他**  
-  ＊Git | ＊GitHub | ＊Docker | ＊Maven | Apache | Tomcat  
+  ＊Git | ＊GitHub | ＊Docker | ＊Maven | Apache | Tomcat | AWS 
   <br>
   
   ## **◼︎ データベース**  
   ＊PostgreSQL | MySQL | Oracle
 # OpenSource Section
 open-source_title: バリューを発揮しやすい業務
-
+open-source_content: |
+  ## 테스트
+  - 애자일 환경
+  - ㅇㅇㅇ
 # Experience Section
 experience_title: 主な業務経歴 
 

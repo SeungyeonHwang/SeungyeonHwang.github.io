@@ -2,7 +2,7 @@
   <h3 style="font-weight: 400">
     {{ site.open-source_title | default: "OpenSource" }}
   </h3>
-  {% for open-source in site.data.open-source %} {% include {{
-  open-source.layout | default: 'left' | append: ".html" }} item=open-source %}
-  {% endfor %}
+  <div class="row clearfix">
+    {{ site.open-source_content | markdownify }}
+  </div>
 </div>
