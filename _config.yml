@@ -66,12 +66,7 @@ skill_content: |
 # OpenSource Section
 open-source_title: ✨ バリューを発揮しやすい業務
 open-source_content: |
-  **実業務で使用した技術は`シンタックスハイライト`で表示します。**  
-  <br>
-
-  ## **◼︎ 言語**  
-  `Java` | `Groovy` | `SQL` | Python | JavaScript | HTML | CSS | JSP | Ruby   
-  <br>
+  test
 # Experience Section
 experience_title: 📑 主な業務経歴 
 
