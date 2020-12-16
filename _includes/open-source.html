@@ -1,8 +1,6 @@
-<div class="container experience-container" style="padding-bottom: 20px">
-  <h3 style="font-weight: 400">
-    {{ site.open-source_title | default: "OpenSource" }}
-  </h3>
-  <div class="row clearfix">
+<div class="container intro-container">
+  <h3 style="font-weight: 400">{{ site.open-source_title | strip |  default: "OpenSource" }}</h3>
+<div class="row clearfix">
     {{ site.open-source_content | markdownify }}
   </div>
 </div>
