@@ -5,6 +5,14 @@
   dates: 2020.10.19 ~ 2020.12.15
   quote: >
     このアプリケーションはコスパの良い韓国コスメが若い女性に流行っている状況を認識して主に若い女性をターゲットした、  
-    各種オンラインストアと連携して実が高い韓国製品を出前で注文できるサービスです。  
+    実が高い韓国製品を出前で注文できるサービスです。  
     Amazon,Qoo10などのECサイトをイメージして作りました。  
   description: |
+    ## 💻 アプリケーション内で使用している技術一覧   
+      - フレームワーク : `Ruby on Rails(5.2.4)`  
+      - 使用している言語等 : `Ruby(2.7.2)`, `JavaScript(+Jquery)`, `Ajax`, `Bootstrap`, `CSS`, `HTML`  
+      - インフラ : Heroku  
+      - データベース : Postgresql  
+      - 開発ツール : `GitHub`, SourceTree  
+      - 画像ストレージ : `AWS-S3`  
+      - 詳細情報 - **[見に行く](https://github.com/SeungyeonHwang/ec_loen_project/blob/main/README.md)**  
