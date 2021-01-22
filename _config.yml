@@ -37,7 +37,7 @@ about_content: |
 # Activity Section
 activity_title: 📌 概要
 activity_content: |
-    ## ◼︎自己紹介
+    ## ◼︎自己紹介(修正中)
     > 初めまして。🙇‍♂️  
       ファンと申します。
       2020年2月から株式会社ホープスというシステム開発会社でエンジニアとして携わっております。  
@@ -64,13 +64,13 @@ skill_content: |
   <br>
   
   ## **◼︎ その他**  
-  `Git` | `GitHub & Lab` | `Docker` | Apache | Tomcat | AWS   
+  `Git` | `GitHub` | `Docker` | Apache | Tomcat | AWS   
   <br>
   
   ## **◼︎ データベース**  
   `PostgreSQL` | MySQL | Oracle
 # OpenSource Section
-open-source_title: ✨ キャリアプラ  
+open-source_title: ✨ キャリアプラ(修正中)  
 open-source_content: |
     ## ◼︎自分が考えているキャリアプランとしては`サービス志向エンジニア`になろうということです。  
     <br>  
